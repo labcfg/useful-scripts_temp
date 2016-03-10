@@ -4,7 +4,7 @@ Various useful scripts
 
 ### Search patterns in FASTQ files
 
-Made by Vasily Cvetkov [@seaneuron](https://github.com/seaneuron).
+Made by Vasily Tsvetkov [@seaneuron](https://github.com/seaneuron).
 
 #### Dependencies:
  
